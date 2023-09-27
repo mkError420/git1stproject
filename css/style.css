@@ -5,3 +5,18 @@
     color: blueviolet !important;
     font-weight: 600;
   }
+
+
+  .feature-section{
+    margin: 125px 0;
+  }
+ .feature-section a{
+  text-decoration: none;
+  font-size: 20px;
+  color: darkcyan;
+}
+
+.card{
+  border: 0 !important;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
